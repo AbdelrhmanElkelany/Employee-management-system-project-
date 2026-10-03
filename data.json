@@ -1,0 +1,25 @@
+[
+    {
+        "type": "Full-Time",
+        "employee_id": "E001",
+        "name": "Abdelrhman",
+        "department": "IT",
+        "monthly_salary": 10000.0
+    },
+    {
+        "type": "Part-Time",
+        "employee_id": "E002",
+        "name": "Ahmed",
+        "department": "Sales",
+        "hourly_rate": 36.0,
+        "hours_worked": 40.0
+    },
+    {
+        "type": "Manager",
+        "employee_id": "E003",
+        "name": "Mohamed",
+        "department": "Marketing",
+        "monthly_salary": 20000.0,
+        "bonus": 1000.0
+    }
+]
